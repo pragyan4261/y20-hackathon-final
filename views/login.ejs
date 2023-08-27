@@ -1,0 +1,23 @@
+<%-include('partials/header')%>
+    <form action="" method="post" class="border-2 border-blue-600 mt-44 w-[60%] ml-72 h-[25rem]">
+        <div class="container mx-auto p-8 bg-white">
+            <h1 class="text-3xl font-bold mb-4">LOGIN</h1>
+            <label for="email" class="block mb-2"><b>Email</b></label>
+            <input type="text" placeholder="Enter Email" name="email" id="email" class="w-full p-3 bg-gray-200 mb-4">
+            <label for="psw" class="block mb-2"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw" id="psw" class="w-full p-3 bg-gray-200 mb-4">
+            <div class="container mx-auto text-center mt-4 mb-2">
+                <button type="submit" class="other bg-blue-800 text-white text-xl py-3 px-4 w-full">
+                    <h3><a href="#" class="text-white">Login</a></h3>
+                </button>
+            </div>
+        </div>
+    </form>
+    <h1 class="text-2xl text-center">OR</h1>
+    <div class="container mx-auto text-center mt-2 -ml-4">
+        <a href="/auth/google" class="text-white"><button type="submit"
+                class="other bg-blue-800 text-white text-xl py-3 px-4 w-[60%]">
+                <h3>Sign in with Google</h3>
+            </button></a>
+    </div>
+    <%-include('partials/footer')%>

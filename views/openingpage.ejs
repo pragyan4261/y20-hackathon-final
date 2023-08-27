@@ -1,0 +1,26 @@
+<%-include('partials/header')%>
+    <div class="bg-[url('/images/background.jpeg')] w-full h-[49.1rem] bg-cover">
+        <div class="container mx-auto text-center p-8 bg-white  w-2/6 rounded-2xl relative top-40">
+            <h2 class="text-2xl font-semibold mb-4">Are you a new user?</h2>
+
+            <div class="container mx-auto text-center">
+                <a href="/signup" class="text-white"><button type="submit"
+                        class="other bg-blue-800 text-white py-3 px-4 h-12  w-36 rounded-lg">
+                        <h3>Sign Up</h3>
+                    </button></a>
+            </div>
+
+            <h4 class="mt-4 text-2xl">OR</h4>
+
+            <h2 class="text-2xl font-semibold mt-4 mb-3">Are you an existing user?</h2>
+
+            <div class="container mx-auto text-center">
+                <a href="/login" class="text-white"><button type="submit"
+                        class="other bg-blue-800 text-white py-3 px-4 h-12 w-36 rounded-lg">
+                        <h3>Sign In</h3>
+                    </button></a>
+            </div>
+        </div>
+    </div>
+
+    <%-include('partials/footer')%>

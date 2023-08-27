@@ -1,0 +1,36 @@
+<div class="w-[60vw] flex flex-col space-y-3 justify-center items-center ml-[14.3rem]">
+    <div class="flex justify-between items-center w-[34rem]">
+        <div class="flex space-x-5 items-center">                                                
+            <img src="<%=post.img%>" alt="" class="h-12 w-12 rounded-full object-cover">
+            <div>
+                <h1 class="font-semibold"><%=post.username%></h1>
+                <p><%=post.createdAt%></p>
+            </div>
+            <div>
+                <h1>Follow</h1>
+            </div>
+        </div>
+        <div>
+            <i class="fa-solid fa-ellipsis fa-xl"></i>
+        </div>
+    </div>
+    <div>
+        <img src="<%=post.img%>" alt="" class="w-[34rem] h-[38rem] object-cover rounded-3xl">
+    </div>
+    <div class="flex justify-between w-[34rem]">
+        <div class="space-x-5">
+            <i class="fa-regular fa-thumbs-up fa-xl"></i>
+            <i class="fa-regular fa-thumbs-down fa-xl"></i>
+            <i class="fa-regular fa-comment fa-xl"></i>
+            <i class="fa-regular fa-paper-plane fa-xl"></i>
+            <i class="fa-regular fa-bookmark fa-xl"></i>
+        </div>
+        <div>
+            <button class="w-24 h-8 bg-blue-600 text-white rounded-md">Buy Now</button>
+        </div>
+    </div>
+    <div class="w-[34rem]">
+        <h1 class="font-semibold mb-1"><%=post.username%></h1>
+        <p class="text-sm"><%=post.desc%></p>
+    </div>
+</div>

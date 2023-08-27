@@ -1,0 +1,64 @@
+<%- include('partials/header')%>
+       <form>
+              <div class="container mx-auto p-8 bg-white">
+                     <h1 class="text-3xl font-bold mb-4">Register</h1>
+                     <hr class="mb-4">
+
+                     <label for="username" class="block mb-2"><b>Username</b></label>
+                     <input type="text" placeholder="Enter username" name="username" id="username"
+                            class="w-full p-3 bg-gray-200 mb-4">
+
+                     <label for="email" class="block mb-2"><b>Email</b></label>
+                     <input type="text" placeholder="Enter Email" name="email" id="email"
+                            class="w-full p-3 bg-gray-200 mb-4">
+
+                     <label for="psw" class="block mb-2"><b>Password</b></label>
+                     <input type="password" placeholder="Enter Password" name="psw" id="psw"
+                            class="w-full p-3 bg-gray-200 mb-4">
+
+                     <label for="psw-repeat" class="block mb-2"><b>Repeat Password</b></label>
+                     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat"
+                            class="w-full p-3 bg-gray-200 mb-4">
+
+                     <hr class="mb-4">
+
+                     <label for="Profile-photo" class="block mb-2"><b>Set Profile Photo</b></label>
+                     <input type="file" placeholder="Profile-photo" name="Profile-photo" id="Profile-photo"
+                            class="w-full p-3 bg-gray-200 mb-4">
+
+                     <hr class="mb-4">
+
+                     <label for="Cover-photo" class="block mb-2"><b>Set Cover Photo</b></label>
+                     <input type="file" placeholder="Cover type" name="Cover-photo" id="Cover-photo"
+                            class="w-full p-3 bg-gray-200 mb-4">
+
+                     <hr class="mb-4">
+
+                     <label for="Description" class="block mb-2"><b>Description</b></label>
+                     <input type="text" placeholder="Description" name="Description" id="Description"
+                            class="w-full p-3 bg-gray-200 mb-4">
+
+                     <hr class="mb-4">
+
+                     <label for="Location" class="block mb-2"><b>Location</b></label>
+                     <input type="text" placeholder="Location" name="Location" id="Location"
+                            class="w-full p-3 bg-gray-200 mb-4">
+
+                     <hr class="mb-4">
+
+                     <p>By creating an account you agree to our <a href="#" class="text-blue-500">Terms & Privacy</a>.
+                     </p>
+
+              </div>
+       </form>
+       <a href="/home">
+              <button id="submitbtn" class=" bg-blue-600 text-white py-3 px-4 w-full mt-4">
+                     <h2>REGISTER</h2>
+              </button>
+       </a>
+       <div class="container mx-auto text-center mt-4">
+              <button type="submit" class=" bg-blue-800 text-white py-3 px-4 w-full">
+                     <h3><a href="#" class="text-white">Or Sign in with Google</a></h3>
+              </button>
+       </div>
+       <%- include('partials/footer')%>
