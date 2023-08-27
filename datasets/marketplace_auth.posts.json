@@ -1,0 +1,570 @@
+[{
+  "_id": {
+    "$oid": "64e9cfa3b1ed445006aeb2f1"
+  },
+  "userId": "64e8e116ccc510da3252a0cc",
+  "username": "Annesha",
+  "desc": "The 'Jaapi' or 'Assamese hat' is a traditional conical hat originating from the northeastern state of Assam in India.It is primarily made of bamboo and cane.It serves as a functional purpose.It's main purpose is to give protection against sun, rain which suits the tropical climate of the region.",
+  "img": "http://localhost:8800/images/JAAPI.jpg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T10:10:43.185Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T10:10:43.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9d375b1ed445006aeb2f5"
+  },
+  "userId": "64e8761306323f9387e4d53b",
+  "username": "John",
+  "desc": "These handcrafted bags made out of pure organic materials are very useful ascessories for daily use. These are made of cane and jute and are primarily used for carrying things in hilly regions.These are stylish and are long-lasting. ",
+  "img": "http://localhost:8800/images/Jute_bag.jpg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T10:27:01.374Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T10:27:01.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9d443b1ed445006aeb2f7"
+  },
+  "userId": "64e8761306323f9387e4d53b",
+  "username": "John",
+  "desc": "These handcrafted baskets are made out of pure organic materials and are very useful ascessories for daily use. These are made of cane and jute and are primarily used for carrying things in hilly regions.These are stylish and are long-lasting. ",
+  "img": "http://localhost:8800/images/Cane_baskets.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T10:30:27.751Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T10:30:27.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9d532b1ed445006aeb2f9"
+  },
+  "userId": "64e8761306323f9387e4d53b",
+  "username": "John",
+  "desc": "These handcrafted baskets are made out of pure organic materials and are very useful ascessories for daily use. These are made of cane and jute and are primarily used for carrying things.These are stylish and long-lasting.",
+  "img": "http://localhost:8800/images/Cane_baskets2.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T10:34:26.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T10:34:26.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9d6a3b1ed445006aeb2fb"
+  },
+  "userId": "64e878d3093d6169be706327",
+  "username": "jane",
+  "desc": "These handcrafted items are made out of pure organic materials and are generally used for carrying fish. These are made of cane and jute and are long-lasting. These are generally used by fishermen.",
+  "img": "http://localhost:8800/images/Khaloi.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T10:40:35.348Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T10:40:35.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9d75eb1ed445006aeb2fd"
+  },
+  "userId": "64e878d3093d6169be706327",
+  "username": "jane",
+  "desc": "These handcrafted items are made out of pure organic materials such as bamboo and are generally used for sitting.These are long-lasting and cost-effective.",
+  "img": "http://localhost:8800/images/Muha.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T10:43:42.629Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T10:43:42.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9d7d2b1ed445006aeb2ff"
+  },
+  "userId": "64e878d3093d6169be706327",
+  "username": "jane",
+  "desc": "These handcrafted lamps from Nagaland are made out of pure organic materials such as bamboo,cane and jute.These are long-lasting and cost-effective and give an ethnic feel to the entire room decor.",
+  "img": "http://localhost:8800/images/Naga_crafts_lamp.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T10:45:38.221Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T10:45:38.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9d896b1ed445006aeb301"
+  },
+  "userId": "64e87a1208d43b85f41b6714",
+  "username": "rahul",
+  "desc": "As raksha bandhan is approaching, gift your brother these beautifully handcrafted rakhis.These rakhis are one of a kind and give a homely-feel to the entire ritual.",
+  "img": "http://localhost:8800/images/Rakhi.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T10:48:54.091Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T10:48:54.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9d8f8b1ed445006aeb303"
+  },
+  "userId": "64e87a1208d43b85f41b6714",
+  "username": "rahul",
+  "desc": "As raksha bandhan is approaching, gift your brother these beautifully handcrafted rakhis.These rakhis are one of a kind and give a homely-feel to the entire ritual.Do check out our extensive collection of mirror rakhis,etc. ",
+  "img": "http://localhost:8800/images/Rakhi2.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T10:50:32.765Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T10:50:32.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9da47b1ed445006aeb305"
+  },
+  "userId": "64e87a1208d43b85f41b6714",
+  "username": "rahul",
+  "desc": "These handmade hats,which are made out of bamboo and cane are really one of a kind. Along wih being stylish and long-lasting, these give you ample protection from the schorching sun.",
+  "img": "http://localhost:8800/images/Hats.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T10:56:07.665Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T10:56:07.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9de14b1ed445006aeb30a"
+  },
+  "userId": "64e8e14accc510da3252a0ce",
+  "username": "Pragyan",
+  "desc": "These handmade needles ,which are made out of wood are really one of a kind. Along wih being stylish and long-lasting, these are highly useful.",
+  "img": "http://localhost:8800/images/Naga_needles.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T11:12:20.759Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T11:12:20.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9de9ab1ed445006aeb30d"
+  },
+  "userId": "64e8e14accc510da3252a0ce",
+  "username": "Pragyan",
+  "desc": "These handmade needles ,which are made out of wood are really one of a kind. Along wih being stylish and long-lasting, these are highly useful.",
+  "img": "http://localhost:8800/images/Rhino.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T11:14:34.159Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T11:14:34.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9ded1b1ed445006aeb30f"
+  },
+  "userId": "64e8e14accc510da3252a0ce",
+  "username": "Pragyan",
+  "desc": "These handmade needles ,which are made out of wood are really one of a kind. Along wih being stylish and long-lasting, these are highly useful.",
+  "img": "http://localhost:8800/images/Elephant.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T11:15:29.519Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T11:15:29.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9def1b1ed445006aeb312"
+  },
+  "userId": "64e8e14accc510da3252a0ce",
+  "username": "Pragyan",
+  "desc": "These handmade needles ,which are made out of wood are really one of a kind. Along wih being stylish and long-lasting, these are highly useful.",
+  "img": "http://localhost:8800/images/Elephant2.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T11:16:01.790Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T11:16:01.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9df20b1ed445006aeb314"
+  },
+  "userId": "64e8e14accc510da3252a0ce",
+  "username": "Pragyan",
+  "desc": "These handmade needles ,which are made out of wood are really one of a kind. Along wih being stylish and long-lasting, these are highly useful.",
+  "img": "http://localhost:8800/images/Wooden.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T11:16:48.392Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T11:16:48.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9df3bb1ed445006aeb317"
+  },
+  "userId": "64e8e14accc510da3252a0ce",
+  "username": "Pragyan",
+  "desc": "These handmade needles ,which are made out of wood are really one of a kind. Along wih being stylish and long-lasting, these are highly useful.",
+  "img": "http://localhost:8800/images/Pottery.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T11:17:15.796Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T11:17:15.796Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9df72b1ed445006aeb319"
+  },
+  "userId": "64e8e14accc510da3252a0ce",
+  "username": "Pragyan",
+  "desc": "These handmade needles ,which are made out of wood are really one of a kind. Along wih being stylish and long-lasting, these are highly useful.",
+  "img": "http://localhost:8800/images/Naga_beads.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T11:18:10.140Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T11:18:10.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9df8bb1ed445006aeb31b"
+  },
+  "userId": "64e8e14accc510da3252a0ce",
+  "username": "Pragyan",
+  "desc": "These handmade needles ,which are made out of wood are really one of a kind. Along wih being stylish and long-lasting, these are highly useful.",
+  "img": "http://localhost:8800/images/Diya.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T11:18:35.697Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T11:18:35.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9dfb5b1ed445006aeb31d"
+  },
+  "userId": "64e8e14accc510da3252a0ce",
+  "username": "Pragyan",
+  "desc": "These handmade needles ,which are made out of wood are really one of a kind. Along wih being stylish and long-lasting, these are highly useful.",
+  "img": "http://localhost:8800/images/Bowl.jpeg",
+  "buys": [
+    "64e8761306323f9387e4d53b",
+    "64e878d3093d6169be706327",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "likes": [
+    "64e8761306323f9387e4d53b",
+    "64e87a1208d43b85f41b6714"
+  ],
+  "dislikes": [
+    "64e8e116ccc510da3252a0cc",
+    "64e878d3093d6169be706327"
+  ],
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-08-26T11:19:17.391Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T11:19:17.391Z"
+  },
+  "__v": 0
+}]

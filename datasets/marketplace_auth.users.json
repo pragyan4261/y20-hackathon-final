@@ -1,0 +1,163 @@
+[{
+  "_id": {
+    "$oid": "64e87a1208d43b85f41b6714"
+  },
+  "username": "rahul",
+  "email": "rahul@gmail.com",
+  "password": "$2b$10$wbcTXkxqVuku6D/dDjUZkOjYIQP0dd7ab03WPDO8lGjJo01/WnNI6",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "following": [],
+  "isAdmin": false,
+  "isSeller": false,
+  "createdAt": {
+    "$date": "2023-08-25T09:53:22.663Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-25T09:53:22.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e8e116ccc510da3252a0cc"
+  },
+  "username": "Annesha",
+  "email": "annesha@gmail.com",
+  "password": "$2b$10$sAzTcArUYPo7s69lV1Sq4Osn50hV5TAg.qcIeVvMjZWHTnuOzbJIe",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-08-25T17:12:54.929Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-25T17:12:54.929Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e8e14accc510da3252a0ce"
+  },
+  "username": "Pragyan",
+  "email": "pragyan@gmail.com",
+  "password": "$2b$10$iePC2Hr84Vwf85MfsQlupOfiE3jnT00He2g.baLAR.SHAn2Bxbj1e",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-08-25T17:13:46.576Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-25T17:13:46.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e8f69f6f1b92f1d02ca71d"
+  },
+  "username": "Murchana",
+  "email": "murchana@gmail.com",
+  "password": "$2b$10$sl6hszzgC0kxzWN0lPWnZu.NySIp4UiLnQCtCC20nBztgrhpW8hkC",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-08-25T18:44:47.826Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-25T18:44:47.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9983559d7398fe9a5cb19"
+  },
+  "username": "Debraj",
+  "email": "debraj@gmail.com",
+  "password": "$2b$10$zD.6iDvOvCmXRGXw6LzBLOA7N7iN6EwGLR1aXl3LH8j5vcENFUi2i",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-08-26T06:14:13.611Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T06:14:13.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e9b4e71bae667ec12ab9da"
+  },
+  "username": "Rajeev",
+  "email": "rajeev@gmail.com",
+  "password": "$2b$10$Q86Kt3OmFnfcnsAwLnyyVeG4ZsGUWrESsAsKHPdOHtbFDnP8e7Gwy",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-08-26T08:16:39.571Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T08:16:39.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e8761306323f9387e4d53b"
+  },
+  "username": "John",
+  "email": "john@gmail.com",
+  "password": "12345",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "following": [],
+  "isAdmin": false,
+  "isSeller": false,
+  "createdAt": {
+    "$date": "2023-08-25T09:36:19.483Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-25T09:36:19.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e878d3093d6169be706327"
+  },
+  "username": "jane",
+  "email": "jane@gmail.com",
+  "password": "123456",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "following": [],
+  "isAdmin": false,
+  "isSeller": false,
+  "createdAt": {
+    "$date": "2023-08-25T09:48:03.388Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-25T09:48:03.388Z"
+  },
+  "__v": 0
+}]
